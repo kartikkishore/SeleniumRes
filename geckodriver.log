@@ -1,0 +1,1226 @@
+1533645703982	geckodriver	INFO	geckodriver 0.21.0
+1533645703996	geckodriver	INFO	Listening on 127.0.0.1:49922
+1533645705007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.GGmKwaJZVuB1"
+2018-08-07 22:41:46.664 plugin-container[716:14451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:41:46.747 plugin-container[717:14478] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533645706993	Marionette	INFO	Listening on port 49933
+1533645707067	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 22:41:47.852 plugin-container[718:14595] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533645753600	geckodriver	INFO	geckodriver 0.21.0
+1533645753608	geckodriver	INFO	Listening on 127.0.0.1:49979
+1533645754623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.aYedXS8o3UlT"
+2018-08-07 22:42:35.688 plugin-container[737:15064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:42:35.907 plugin-container[738:15088] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533645756104	Marionette	INFO	Listening on port 49990
+1533645756161	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 22:42:36.846 plugin-container[739:15205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:48:59.895 plugin-container[777:19009] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://provost.unimelb.edu.au/students-equity/ssaf, line 256: TypeError: jQuery(...).timeago is not a function
+2018-08-07 22:49:21.088 plugin-container[778:19195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://provost.unimelb.edu.au/students-equity/ssaf/2016-2018-ssaf-summary-of-financial-distribution, line 248: TypeError: jQuery(...).timeago is not a function
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_371230_1&handle=announcements_entry&mode=view, line 677: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_371230_1&content_id=_6515594_1&mode=reset, line 676: TypeError: $$(...)[0] is undefined
+2018-08-07 22:57:16.732 plugin-container[810:22049] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:00:18.836 plugin-container[827:23129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:00:20.131 plugin-container[828:23228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:01:12.623 plugin-container[829:23631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20180801/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1533647220183	geckodriver	INFO	geckodriver 0.21.0
+1533647220189	geckodriver	INFO	Listening on 127.0.0.1:50709
+1533647221203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.TzHIsMOf2Wt3"
+2018-08-07 23:07:02.355 plugin-container[892:26699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:07:02.531 plugin-container[893:26725] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647222717	Marionette	INFO	Listening on port 50720
+1533647222734	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:07:03.532 plugin-container[894:26843] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+[Parent 891, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1533647313237	geckodriver	INFO	geckodriver 0.21.0
+1533647313242	geckodriver	INFO	Listening on 127.0.0.1:50802
+1533647314255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.Kg0GujWxxGa7"
+2018-08-07 23:08:35.334 plugin-container[913:27660] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:08:35.572 plugin-container[914:27687] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647315758	Marionette	INFO	Listening on port 50813
+1533647315802	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:08:36.525 plugin-container[915:27798] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8833, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://app.lms.unimelb.edu.au
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://app.lms.unimelb.edu.au
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1533647427736	geckodriver	INFO	geckodriver 0.21.0
+1533647427742	geckodriver	INFO	Listening on 127.0.0.1:50897
+1533647428753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.9kXF6xXtIU1X"
+2018-08-07 23:10:29.900 plugin-container[918:28747] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:10:30.068 plugin-container[919:28769] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647430249	Marionette	INFO	Listening on port 50908
+1533647430299	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:10:31.020 plugin-container[920:28875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533647471289	geckodriver	INFO	geckodriver 0.21.0
+1533647471295	geckodriver	INFO	Listening on 127.0.0.1:51010
+1533647472312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.skGO7Ssj6iHN"
+2018-08-07 23:11:13.476 plugin-container[923:29316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8107, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:11:13.647 plugin-container[924:29339] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647473938	Marionette	INFO	Listening on port 51021
+1533647474041	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:11:14.593 plugin-container[925:29451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+1533647605214	geckodriver	INFO	geckodriver 0.21.0
+1533647605221	geckodriver	INFO	Listening on 127.0.0.1:51120
+1533647606237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.VXsQOw0x7QXs"
+2018-08-07 23:13:27.329 plugin-container[928:30521] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:13:27.576 plugin-container[929:30544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647607792	Marionette	INFO	Listening on port 51131
+1533647607871	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:13:28.483 plugin-container[930:30663] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+1533647681197	geckodriver	INFO	geckodriver 0.21.0
+1533647681203	geckodriver	INFO	Listening on 127.0.0.1:51225
+1533647682220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.VcJd6bEtKDxi"
+2018-08-07 23:14:43.286 plugin-container[954:31336] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:14:43.510 plugin-container[955:31359] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647683726	Marionette	INFO	Listening on port 51236
+1533647683781	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:14:44.433 plugin-container[956:31475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533647704364	geckodriver	INFO	geckodriver 0.21.0
+1533647704370	geckodriver	INFO	Listening on 127.0.0.1:51256
+1533647705384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.SQiSVLU6JJSx"
+2018-08-07 23:15:06.534 plugin-container[959:31799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:15:06.691 plugin-container[960:31822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647706917	Marionette	INFO	Listening on port 51267
+1533647706925	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:15:07.617 plugin-container[961:31931] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533647764607	geckodriver	INFO	geckodriver 0.21.0
+1533647764613	geckodriver	INFO	Listening on 127.0.0.1:51343
+1533647765631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.46BLT2C4pdI5"
+2018-08-07 23:16:06.778 plugin-container[964:32499] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:16:06.943 plugin-container[965:32523] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647767110	Marionette	INFO	Listening on port 51354
+1533647767163	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:16:07.888 plugin-container[966:32635] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8733, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533647819744	geckodriver	INFO	geckodriver 0.21.0
+1533647819749	geckodriver	INFO	Listening on 127.0.0.1:51401
+1533647820763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.1KuVjZIOhhlm"
+2018-08-07 23:17:01.998 plugin-container[969:33046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:17:02.165 plugin-container[970:33075] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647822350	Marionette	INFO	Listening on port 51412
+1533647822404	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:17:03.074 plugin-container[971:33189] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647913903	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1533647930037	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533647930038	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533647939922	geckodriver	INFO	geckodriver 0.21.0
+1533647939929	geckodriver	INFO	Listening on 127.0.0.1:51474
+1533647940944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.aGtHtj0tBUKZ"
+2018-08-07 23:19:02.078 plugin-container[976:34084] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8447, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:19:02.251 plugin-container[977:34108] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533647942425	Marionette	INFO	Listening on port 51485
+1533647942474	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:19:03.202 plugin-container[978:34213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648079016	geckodriver	INFO	geckodriver 0.21.0
+1533648079022	geckodriver	INFO	Listening on 127.0.0.1:51568
+1533648080038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.YU3qxavNy45s"
+2018-08-07 23:21:21.159 plugin-container[995:35224] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:21:21.319 plugin-container[996:35247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648081508	Marionette	INFO	Listening on port 51579
+1533648081580	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:21:22.224 plugin-container[997:35363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7333, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/7B911C10A2D30900A719803410B0D9FC.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/, line 347: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/7B911C10A2D30900A719803410B0D9FC.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/, line 347: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6183: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 5644: TypeError: registry is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533648136330	geckodriver	INFO	geckodriver 0.21.0
+1533648136337	geckodriver	INFO	Listening on 127.0.0.1:51647
+1533648137351	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.GGEbty9HEz9E"
+2018-08-07 23:22:18.480 plugin-container[1001:35920] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:22:18.657 plugin-container[1002:35944] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648138900	Marionette	INFO	Listening on port 51658
+1533648138987	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:22:19.604 plugin-container[1003:36072] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+1533648226451	geckodriver	INFO	geckodriver 0.21.0
+1533648226456	geckodriver	INFO	Listening on 127.0.0.1:51721
+1533648227473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.ibb5cnSD0Fq0"
+2018-08-07 23:23:48.603 plugin-container[1006:36844] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:23:48.770 plugin-container[1007:36866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648228960	Marionette	INFO	Listening on port 51732
+1533648229006	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:23:49.693 plugin-container[1008:36970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+1533648316433	geckodriver	INFO	geckodriver 0.21.0
+1533648316438	geckodriver	INFO	Listening on 127.0.0.1:51897
+1533648317456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.dWGojP9jec49"
+2018-08-07 23:25:18.605 plugin-container[1020:37990] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:25:18.774 plugin-container[1021:38012] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648318959	Marionette	INFO	Listening on port 51908
+1533648319003	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:25:19.746 plugin-container[1022:38120] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533648380572	geckodriver	INFO	geckodriver 0.21.0
+1533648380578	geckodriver	INFO	Listening on 127.0.0.1:51971
+1533648381596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.3mkxlHTuibYR"
+2018-08-07 23:26:22.674 plugin-container[1039:38943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:26:22.911 plugin-container[1040:38966] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x862f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648383148	Marionette	INFO	Listening on port 51982
+1533648383243	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:26:23.843 plugin-container[1041:39074] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533648437956	geckodriver	INFO	geckodriver 0.21.0
+1533648437961	geckodriver	INFO	Listening on 127.0.0.1:52041
+1533648438978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.WhufVoh3RvyK"
+2018-08-07 23:27:20.098 plugin-container[1044:39668] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:27:20.273 plugin-container[1045:39692] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533648440519	Marionette	INFO	Listening on port 52052
+1533648440606	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:27:21.176 plugin-container[1046:39799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+1533649472199	geckodriver	INFO	geckodriver 0.21.0
+1533649472205	geckodriver	INFO	Listening on 127.0.0.1:52116
+1533649473222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.dI1ptzwj4503"
+2018-08-07 23:44:34.382 plugin-container[1100:44320] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:44:34.535 plugin-container[1101:44342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649474723	Marionette	INFO	Listening on port 52127
+1533649474770	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:44:35.469 plugin-container[1102:44454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+1533649516196	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533649560592	geckodriver	INFO	geckodriver 0.21.0
+1533649560597	geckodriver	INFO	Listening on 127.0.0.1:52192
+1533649561628	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.xtP6pAb1A2tt"
+2018-08-07 23:46:02.769 plugin-container[1105:45141] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8847, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:46:02.929 plugin-container[1106:45165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649563167	Marionette	INFO	Listening on port 52203
+1533649563268	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:46:03.854 plugin-container[1107:45273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649643040	geckodriver	INFO	geckodriver 0.21.0
+1533649643046	geckodriver	INFO	Listening on 127.0.0.1:52245
+1533649644059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.B1AkIAyQdS76"
+2018-08-07 23:47:25.192 plugin-container[1143:46048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:47:25.359 plugin-container[1144:46075] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649645549	Marionette	INFO	Listening on port 52256
+1533649645595	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:47:26.298 plugin-container[1145:46183] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533649674958	geckodriver	INFO	geckodriver 0.21.0
+1533649674964	geckodriver	INFO	Listening on 127.0.0.1:52285
+1533649675977	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.2nKAKH3WqOmF"
+2018-08-07 23:47:57.105 plugin-container[1148:46514] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:47:57.263 plugin-container[1149:46538] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649677459	Marionette	INFO	Listening on port 52296
+1533649677508	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:47:58.206 plugin-container[1150:46659] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649811671	geckodriver	INFO	geckodriver 0.21.0
+1533649811676	geckodriver	INFO	Listening on 127.0.0.1:52355
+1533649812690	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.hszcokVKZzx8"
+2018-08-07 23:50:13.969 plugin-container[1181:48305] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:50:14.130 plugin-container[1182:48330] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649814320	Marionette	INFO	Listening on port 52367
+1533649814339	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:50:15.071 plugin-container[1183:48445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+1533649951379	geckodriver	INFO	geckodriver 0.21.0
+1533649951385	geckodriver	INFO	Listening on 127.0.0.1:52443
+1533649952412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.oNmjEmOmcFyI"
+2018-08-07 23:52:33.476 plugin-container[1233:50018] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:52:33.710 plugin-container[1234:50041] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533649953942	Marionette	INFO	Listening on port 52454
+1533649953955	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:52:34.667 plugin-container[1235:50151] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533650012145	geckodriver	INFO	geckodriver 0.21.0
+1533650012161	geckodriver	INFO	Listening on 127.0.0.1:52518
+1533650013162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.W5EmFwtBzVvC"
+2018-08-07 23:53:34.232 plugin-container[1238:50770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:53:34.458 plugin-container[1239:50793] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650014636	Marionette	INFO	Listening on port 52529
+1533650014698	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:53:35.384 plugin-container[1240:50905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+2018-08-07 23:54:15.555 plugin-container[1241:51266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:54:31.904 plugin-container[1242:51483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1237, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1533650244809	geckodriver	INFO	geckodriver 0.21.0
+1533650244815	geckodriver	INFO	Listening on 127.0.0.1:52665
+1533650245828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.kwhuEiyrmKIL"
+2018-08-07 23:57:26.970 plugin-container[1245:52810] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:57:27.128 plugin-container[1246:52833] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650247395	Marionette	INFO	Listening on port 52676
+1533650247463	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:57:28.082 plugin-container[1247:52947] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+1533650429079	geckodriver	INFO	geckodriver 0.21.0
+1533650429084	geckodriver	INFO	Listening on 127.0.0.1:52737
+1533650430097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.SXQcWaB47Aj9"
+2018-08-08 00:00:31.249 plugin-container[1250:54162] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:00:31.403 plugin-container[1251:54185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650431598	Marionette	INFO	Listening on port 52748
+1533650431640	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:00:32.343 plugin-container[1252:54298] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x920b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650490965	geckodriver	INFO	geckodriver 0.21.0
+1533650490971	geckodriver	INFO	Listening on 127.0.0.1:52765
+1533650491992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.84CQy7pWQdYW"
+2018-08-08 00:01:33.093 plugin-container[1255:54877] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:01:33.325 plugin-container[1256:54901] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650493494	Marionette	INFO	Listening on port 52776
+1533650493542	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:01:34.223 plugin-container[1257:55020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650531851	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1533650532864	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650533436	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1533650533440	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650534085	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1533650534093	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650550588	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650550588	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650550589	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650568103	geckodriver	INFO	geckodriver 0.21.0
+1533650568110	geckodriver	INFO	Listening on 127.0.0.1:52800
+1533650569123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.X8FxlEziooQW"
+2018-08-08 00:02:50.260 plugin-container[1276:55942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:02:50.420 plugin-container[1277:55964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650570613	Marionette	INFO	Listening on port 52811
+1533650570663	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:02:51.345 plugin-container[1278:56072] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1533650693165	geckodriver	INFO	geckodriver 0.21.0
+1533650693171	geckodriver	INFO	Listening on 127.0.0.1:52876
+1533650694184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.PnIwFMMKgHfG"
+2018-08-08 00:04:55.334 plugin-container[1286:57556] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:04:55.494 plugin-container[1287:57580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650695686	Marionette	INFO	Listening on port 52887
+1533650695734	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:04:56.457 plugin-container[1288:57693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650718200	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1533650718202	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 1287, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533650733404	geckodriver	INFO	geckodriver 0.21.0
+1533650733410	geckodriver	INFO	Listening on 127.0.0.1:52930
+1533650734424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.GzUkJOq1tbgX"
+2018-08-08 00:05:35.546 plugin-container[1304:58370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:05:35.715 plugin-container[1305:58393] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533650735909	Marionette	INFO	Listening on port 52941
+1533650735957	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:05:36.650 plugin-container[1306:58508] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+1533651090403	geckodriver	INFO	geckodriver 0.21.0
+1533651090413	geckodriver	INFO	Listening on 127.0.0.1:53097
+1533651091421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.tS0xvdFKN8F8"
+2018-08-08 00:11:32.552 plugin-container[1327:61024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:11:32.722 plugin-container[1328:61048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651092903	Marionette	INFO	Listening on port 53108
+1533651092959	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:11:33.639 plugin-container[1329:61156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533651135563	geckodriver	INFO	geckodriver 0.21.0
+1533651135569	geckodriver	INFO	Listening on 127.0.0.1:53157
+1533651136583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.EvPr15fz2PMu"
+*** You are running in headless mode.
+2018-08-08 00:12:17.614 plugin-container[1332:61621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:12:17.768 plugin-container[1333:61642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651137940	Marionette	INFO	Listening on port 53168
+1533651138009	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:12:18.546 plugin-container[1334:61745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+1533651181842	geckodriver	INFO	geckodriver 0.21.0
+1533651181852	geckodriver	INFO	Listening on 127.0.0.1:53238
+1533651182858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.uaUpXJM5h0iJ"
+2018-08-08 00:13:03.985 plugin-container[1337:62201] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:13:04.155 plugin-container[1338:62226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651184335	Marionette	INFO	Listening on port 53249
+1533651184396	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:13:05.114 plugin-container[1339:62339] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+1533651305595	geckodriver	INFO	geckodriver 0.21.0
+1533651305602	geckodriver	INFO	Listening on 127.0.0.1:53305
+1533651306614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.PHPgwqZmxM47"
+2018-08-08 00:15:07.762 plugin-container[1348:63448] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:15:07.924 plugin-container[1349:63472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651308108	Marionette	INFO	Listening on port 53316
+1533651308156	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:15:08.844 plugin-container[1350:63584] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x770b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533651355682	geckodriver	INFO	geckodriver 0.21.0
+1533651355687	geckodriver	INFO	Listening on 127.0.0.1:53377
+1533651356701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.aOafpkgcS6PK"
+2018-08-08 00:15:57.819 plugin-container[1353:64202] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x860b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:15:57.996 plugin-container[1354:64226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651358233	Marionette	INFO	Listening on port 53388
+1533651358324	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:15:58.890 plugin-container[1355:64329] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+JavaScript error: about:newtab, line 284: SyntaxError: illegal character
+JavaScript error: about:newtab, line 284: SyntaxError: illegal character
+2018-08-08 00:21:07.834 plugin-container[1357:66312] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: about:newtab, line 284: SyntaxError: illegal character
+2018-08-08 00:21:23.435 plugin-container[1358:66466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:21:30.754 plugin-container[1359:66579] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x130011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1533651881414	geckodriver	INFO	geckodriver 0.21.0
+1533651881422	geckodriver	INFO	Listening on 127.0.0.1:53551
+1533651882436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.WFzw3Aah2OSa"
+2018-08-08 00:24:43.565 plugin-container[1368:67961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:24:43.724 plugin-container[1369:67985] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651883987	Marionette	INFO	Listening on port 53562
+1533651884082	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:24:44.666 plugin-container[1370:68091] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533651951588	geckodriver	INFO	geckodriver 0.21.0
+1533651951594	geckodriver	INFO	Listening on 127.0.0.1:53629
+1533651952606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.aUN9UongEVPQ"
+2018-08-08 00:25:53.749 plugin-container[1373:68654] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:25:53.914 plugin-container[1374:68677] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533651954130	Marionette	INFO	Listening on port 53640
+1533651954157	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:25:54.849 plugin-container[1375:68788] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652211541	geckodriver	INFO	geckodriver 0.21.0
+1533652211550	geckodriver	INFO	Listening on 127.0.0.1:53705
+1533652212565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.8IovTvZsBio9"
+2018-08-08 00:30:13.714 plugin-container[1381:70564] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:30:13.884 plugin-container[1382:70587] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652214138	Marionette	INFO	Listening on port 53716
+1533652214204	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:30:14.781 plugin-container[1383:70697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533652271252	geckodriver	INFO	geckodriver 0.21.0
+1533652271259	geckodriver	INFO	Listening on 127.0.0.1:53804
+1533652272270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.r5pXzRzMUOB5"
+2018-08-08 00:31:13.385 plugin-container[1386:71304] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x870b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:31:13.548 plugin-container[1387:71327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652273728	Marionette	INFO	Listening on port 53815
+1533652273801	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:31:14.485 plugin-container[1388:71433] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652412489	geckodriver	INFO	geckodriver 0.21.0
+1533652412502	geckodriver	INFO	Listening on 127.0.0.1:53874
+1533652413508	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.VloV730eMe4K"
+2018-08-08 00:33:34.620 plugin-container[1391:72357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:33:34.790 plugin-container[1392:72381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652414965	Marionette	INFO	Listening on port 53885
+1533652415039	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:33:35.678 plugin-container[1393:72488] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1533652472250	geckodriver	INFO	geckodriver 0.21.0
+1533652472258	geckodriver	INFO	Listening on 127.0.0.1:53968
+1533652473272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.MfgkaQkfEU9k"
+2018-08-08 00:34:34.407 plugin-container[1396:73053] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:34:34.558 plugin-container[1397:73077] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652474753	Marionette	INFO	Listening on port 53979
+1533652474805	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:34:35.488 plugin-container[1398:73184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652547741	geckodriver	INFO	geckodriver 0.21.0
+1533652547750	geckodriver	INFO	Listening on 127.0.0.1:54054
+1533652548764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.L065XQfJ5vHh"
+2018-08-08 00:35:49.940 plugin-container[1402:73959] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:35:50.110 plugin-container[1403:73983] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652550297	Marionette	INFO	Listening on port 54065
+1533652550397	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:35:51.065 plugin-container[1404:74090] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652715310	geckodriver	INFO	geckodriver 0.21.0
+1533652715318	geckodriver	INFO	Listening on 127.0.0.1:54147
+1533652716330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.d70ekZmu2RQj"
+2018-08-08 00:38:37.479 plugin-container[1418:75265] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:38:37.652 plugin-container[1419:75288] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652717873	Marionette	INFO	Listening on port 54158
+1533652717976	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:38:38.596 plugin-container[1420:75404] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652784723	geckodriver	INFO	geckodriver 0.21.0
+1533652784729	geckodriver	INFO	Listening on 127.0.0.1:54244
+1533652785742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.zZbNXGsD31Hl"
+2018-08-08 00:39:46.853 plugin-container[1426:76269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:39:47.010 plugin-container[1427:76294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652787188	Marionette	INFO	Listening on port 54255
+1533652787269	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:39:47.912 plugin-container[1428:76406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652854912	geckodriver	INFO	geckodriver 0.21.0
+1533652854918	geckodriver	INFO	Listening on 127.0.0.1:54347
+1533652855935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.mTZUA3d4Wju0"
+2018-08-08 00:40:57.155 plugin-container[1431:77142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:40:57.230 plugin-container[1432:77166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652857406	Marionette	INFO	Listening on port 54358
+1533652857473	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:40:58.189 plugin-container[1433:77280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533652929684	geckodriver	INFO	geckodriver 0.21.0
+1533652929690	geckodriver	INFO	Listening on 127.0.0.1:54441
+1533652930706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.4hOQ9dzu5VJX"
+2018-08-08 00:42:11.834 plugin-container[1440:78025] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:42:11.998 plugin-container[1441:78050] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533652932172	Marionette	INFO	Listening on port 54452
+1533652932248	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:42:12.916 plugin-container[1442:78159] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533653180596	geckodriver	INFO	geckodriver 0.21.0
+1533653180602	geckodriver	INFO	Listening on 127.0.0.1:54571
+1533653181618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.9D2mL7U4NsTV"
+2018-08-08 00:46:22.721 plugin-container[1473:80352] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:46:22.938 plugin-container[1474:80375] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533653183144	Marionette	INFO	Listening on port 54582
+1533653183161	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:46:23.882 plugin-container[1475:80497] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 602: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 648: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 735: TypeError: $$(...)[0] is undefined
+2018-08-08 00:50:19.442 plugin-container[1512:82579] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://qsbr.ec.quoracdn.net/-3-chunk.web.main.js.out-34-995503065928b4f8.webpack, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://qsbr.ec.quoracdn.net/-3-chunk.web.main.js.out-34-995503065928b4f8.webpack, line 17: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://qsbr.ec.quoracdn.net/-3-chunk.web.main.js.out-34-995503065928b4f8.webpack, line 17: NS_ERROR_NOT_INITIALIZED: 
+2018-08-08 00:52:24.627 plugin-container[1525:83486] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1533653760062	geckodriver	INFO	geckodriver 0.21.0
+1533653760068	geckodriver	INFO	Listening on 127.0.0.1:54934
+1533653761084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.guucYBfreECF"
+2018-08-08 00:56:02.246 plugin-container[1563:85439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:56:02.421 plugin-container[1564:85465] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533653762583	Marionette	INFO	Listening on port 54945
+1533653762632	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:56:03.354 plugin-container[1565:85581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 602: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 648: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 735: TypeError: $$(...)[0] is undefined
+1533653801681	geckodriver	INFO	geckodriver 0.21.0
+1533653801687	geckodriver	INFO	Listening on 127.0.0.1:55017
+1533653802703	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.fy8ToB2NpAya"
+2018-08-08 00:56:43.921 plugin-container[1569:86173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:56:44.075 plugin-container[1570:86197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533653804281	Marionette	INFO	Listening on port 55028
+1533653804345	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:56:45.011 plugin-container[1571:86308] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 602: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 648: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 735: TypeError: $$(...)[0] is undefined
+1533654138332	geckodriver	INFO	geckodriver 0.21.0
+1533654138338	geckodriver	INFO	Listening on 127.0.0.1:55120
+1533654139355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.sywzJYStjhcX"
+2018-08-08 01:02:20.441 plugin-container[1590:88549] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:02:20.649 plugin-container[1591:88571] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533654140840	Marionette	INFO	Listening on port 55131
+1533654140897	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:02:21.596 plugin-container[1592:88683] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 602: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 648: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 735: TypeError: $$(...)[0] is undefined
+1533654436908	geckodriver	INFO	geckodriver 0.21.0
+1533654436913	geckodriver	INFO	Listening on 127.0.0.1:55239
+1533654437930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.mGoBRlSxv1Mu"
+2018-08-08 01:07:19.052 plugin-container[1621:90869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:07:19.212 plugin-container[1622:90895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533654439407	Marionette	INFO	Listening on port 55250
+1533654439465	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:07:20.131 plugin-container[1623:91010] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533654599161	geckodriver	INFO	geckodriver 0.21.0
+1533654599167	geckodriver	INFO	Listening on 127.0.0.1:55492
+1533654600184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.Y2FQmP7vUK52"
+2018-08-08 01:10:01.326 plugin-container[1647:92721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:10:01.493 plugin-container[1648:92745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533654601673	Marionette	INFO	Listening on port 55503
+1533654601722	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:10:02.464 plugin-container[1649:92858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533654729654	geckodriver	INFO	geckodriver 0.21.0
+1533654729659	geckodriver	INFO	Listening on 127.0.0.1:55617
+1533654730675	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.SgRyHC7PQjC0"
+2018-08-08 01:12:11.815 plugin-container[1654:94007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:12:11.997 plugin-container[1655:94031] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533654732170	Marionette	INFO	Listening on port 55628
+1533654732214	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:12:12.941 plugin-container[1656:94142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533654937120	geckodriver	INFO	geckodriver 0.21.0
+1533654937125	geckodriver	INFO	Listening on 127.0.0.1:55835
+1533654938143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.MBIEPlKtCrHY"
+2018-08-08 01:15:39.269 plugin-container[1691:96243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:15:39.424 plugin-container[1692:96265] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533654939660	Marionette	INFO	Listening on port 55846
+1533654939676	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:15:40.345 plugin-container[1693:96366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533655042867	geckodriver	INFO	geckodriver 0.21.0
+1533655042872	geckodriver	INFO	Listening on 127.0.0.1:55919
+1533655043889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.Ry05HW4NEEmb"
+2018-08-08 01:17:25.008 plugin-container[1696:97238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:17:25.182 plugin-container[1697:97261] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533655045352	Marionette	INFO	Listening on port 55930
+1533655045444	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:17:26.101 plugin-container[1698:97373] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533655223551	geckodriver	INFO	geckodriver 0.21.0
+1533655223556	geckodriver	INFO	Listening on 127.0.0.1:56070
+1533655224573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.ohX158vdMEEy"
+2018-08-08 01:20:25.710 plugin-container[1722:98881] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:20:25.868 plugin-container[1723:98904] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533655226058	Marionette	INFO	Listening on port 56081
+1533655226111	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:20:26.777 plugin-container[1724:99016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533655396211	geckodriver	INFO	geckodriver 0.21.0
+1533655396217	geckodriver	INFO	Listening on 127.0.0.1:56161
+1533655397234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.L2jFcSgCZ4Ql"
+2018-08-08 01:23:18.365 plugin-container[1734:100324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:23:18.534 plugin-container[1735:100348] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533655398718	Marionette	INFO	Listening on port 56172
+1533655398766	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:23:19.453 plugin-container[1736:100459] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533655461875	geckodriver	INFO	geckodriver 0.21.0
+1533655461880	geckodriver	INFO	Listening on 127.0.0.1:56245
+1533655462896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.j7TkLDDdLMD3"
+2018-08-08 01:24:24.056 plugin-container[1739:101125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8147, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:24:24.208 plugin-container[1740:101149] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533655464401	Marionette	INFO	Listening on port 56256
+1533655464446	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:24:25.155 plugin-container[1741:101266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533655577297	geckodriver	INFO	geckodriver 0.21.0
+1533655577302	geckodriver	INFO	Listening on 127.0.0.1:56354
+1533655578318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.Idr32JeUoPWb"
+2018-08-08 01:26:19.415 plugin-container[1775:102660] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:26:19.581 plugin-container[1776:102684] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533655579769	Marionette	INFO	Listening on port 56365
+1533655579850	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:26:20.534 plugin-container[1777:102805] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533655883329	geckodriver	INFO	geckodriver 0.21.0
+1533655883334	geckodriver	INFO	Listening on 127.0.0.1:56505
+1533655884350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.0QVQRxyWACMx"
+2018-08-08 01:31:25.481 plugin-container[1804:105053] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:31:25.639 plugin-container[1805:105080] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533655885829	Marionette	INFO	Listening on port 56516
+1533655885877	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:31:26.558 plugin-container[1806:105188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 679: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 535: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 602: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 648: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 735: TypeError: $$(...)[0] is undefined
+1533656597663	geckodriver	INFO	geckodriver 0.21.0
+1533656597668	geckodriver	INFO	Listening on 127.0.0.1:56856
+1533656598682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.h4ICEX0ug7ZU"
+2018-08-08 01:43:19.852 plugin-container[1867:110581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:43:20.001 plugin-container[1868:110604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533656600199	Marionette	INFO	Listening on port 56867
+1533656600215	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:43:20.955 plugin-container[1869:110713] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533656742614	geckodriver	INFO	geckodriver 0.21.0
+1533656742622	geckodriver	INFO	Listening on 127.0.0.1:56929
+1533656743638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.7RxDZet8x6Sm"
+2018-08-08 01:45:44.701 plugin-container[1880:112195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:45:44.973 plugin-container[1881:112217] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533656745144	Marionette	INFO	Listening on port 56941
+1533656745191	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:45:45.923 plugin-container[1896:112359] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533656888175	geckodriver	INFO	geckodriver 0.21.0
+1533656888180	geckodriver	INFO	Listening on 127.0.0.1:57024
+1533656889198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.q9CWB7VFKcpJ"
+*** You are running in headless mode.
+2018-08-08 01:48:10.298 plugin-container[1899:113403] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:48:10.373 plugin-container[1900:113423] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533656890543	Marionette	INFO	Listening on port 57035
+1533656890631	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:48:11.209 plugin-container[1901:113527] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+1533656978503	geckodriver	INFO	geckodriver 0.21.0
+1533656978508	geckodriver	INFO	Listening on 127.0.0.1:57095
+1533656979526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p_/p1cy7plx5dg90y5zm2mb77rc0000gn/T/rust_mozprofile.QJLKK8RFi7WO"
+2018-08-08 01:49:40.658 plugin-container[1904:114247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x780b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 01:49:40.833 plugin-container[1905:114272] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533656981061	Marionette	INFO	Listening on port 57106
+1533656981159	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 01:49:41.744 plugin-container[1906:114386] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_41_1, line 680: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_115_1, line 536: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540124_1, line 603: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
+JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
