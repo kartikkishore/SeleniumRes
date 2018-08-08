@@ -1224,3 +1224,5 @@ JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/list
 JavaScript warning: https://app.lms.unimelb.edu.au/groupjs/40624BC31E20C73D54A5818BE39C35E3.js?v=3300.0.1-rel.37+c07f12a, line 6180: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6540125_1&mode=reset, line 649: TypeError: $$(...)[0] is undefined
 JavaScript error: https://app.lms.unimelb.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_372508_1&content_id=_6564793_1, line 736: TypeError: $$(...)[0] is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
